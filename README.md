@@ -14,4 +14,4 @@ During the study of JavaScript and CSS, have been built a few simple application
 
 ---
 
-
+- **Guess My Number**</br>Simple application where a player needs to guess a random generated number.
