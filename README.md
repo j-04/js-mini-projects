@@ -28,4 +28,4 @@ A simple Banking application that allows to do basic operations with money.
 
 ### **Bankist Website**
 
-A simple Bankins Website for Banking application that was made for marketing purposes.
+A simple Bankist Website for the Bankist App that is made for marketing purposes.
